@@ -10,7 +10,7 @@
     "server": "json-server --watch server/db.json --port 5000"
   },
   "dependencies": {
-    "axios": "^0.31.1",
+    "axios": "^0.33.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-router-dom": "^5.3.4"
